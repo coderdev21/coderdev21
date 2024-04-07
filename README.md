@@ -2,7 +2,6 @@
 
 Soy un desarrollador de software apasionado con más de 10 años de experiencia en el diseño y desarrollo de soluciones tecnológicas innovadoras. Especializado en el desarrollo de aplicaciones web y móviles.
 
-# Habilidades Técnicas:
 ## Lenguajes de programación:
   
 [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]() ![Static Badge](https://img.shields.io/badge/PHP-php?style=for-the-badge&logo=php&logoColor=white&labelColor=black&color=blue) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
