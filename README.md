@@ -1,6 +1,6 @@
 ![bannergithub](https://github.com/coderdev21/coderdev21/assets/30912173/7c534651-537a-4747-bbdd-6eef1660ded0)
 
-Soy un desarrollador de software apasionado con más de 15 años de experiencia en el diseño y desarrollo de soluciones tecnológicas innovadoras. Especializado en el desarrollo de aplicaciones web y móviles.
+Soy un desarrollador de software apasionado con más de 10 años de experiencia en el diseño y desarrollo de soluciones tecnológicas innovadoras. Especializado en el desarrollo de aplicaciones web y móviles.
 
 # Habilidades Técnicas:
 ## Lenguajes de programación:
