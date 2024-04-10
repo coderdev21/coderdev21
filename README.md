@@ -1,7 +1,9 @@
 ![bannergithub](https://github.com/coderdev21/coderdev21/assets/30912173/7c534651-537a-4747-bbdd-6eef1660ded0)
 
 # 💫 Sobre mi
-Soy un desarrollador de software apasionado con más de 10 años de experiencia en el diseño y desarrollo de soluciones tecnológicas innovadoras. Especializado en el desarrollo de aplicaciones web y móviles.
+Soy un apasionado programador con cmás de 10 años de experiencia en el diseño y desarrollo de soluciones tecnológicas innovadoras. Mi enfoque se centra en crear soluciones eficientes y elegantes que resuelvan problemas del mundo real. He trabajado en proyectos desafiantes, desde aplicaciones web hasta sistemas de gestión empresarial. Domino varios lenguajes de programación, como Python, PHP y JavaScript. Creo en la importancia de una interfaz de usuario intuitiva y atractiva. Disfruto trabajando en equipo y aprendiendo de mis colegas. Actualmente resido en Panamá, un país lleno de cultura, naturaleza y oportunidades. Siempre estoy dispuesto a explorar nuevas ideas y aprender de otros profesionales.
+
+¡No dudes en conectarte conmigo! Estoy abierto a colaboraciones, oportunidades laborales y proyectos emocionantes. Puedes encontrarme en mi perfil de GitHub o enviarme un correo electrónico. 🚀
 
 ## Lenguajes de programación:
   
@@ -44,7 +46,7 @@ Here are some ideas to get you started:
 
 
 # 💫 About Me:
-Sobre Mí<br>¡Hola! Soy un apasionado programador con amplia experiencia en el análisis y diseño de aplicaciones. Mi enfoque se centra en crear soluciones eficientes y elegantes que resuelvan problemas del mundo real.<br><br>¿Por qué trabajar conmigo?<br>Experiencia sólida: He trabajado en proyectos desafiantes, desde aplicaciones web hasta sistemas de gestión empresarial.<br>Habilidades técnicas: Domino varios lenguajes de programación, como Python, Java y JavaScript.<br>Diseño centrado en el usuario: Creo en la importancia de una interfaz de usuario intuitiva y atractiva.<br>Colaboración: Disfruto trabajando en equipo y aprendiendo de mis colegas.<br>Ubicación<br>Actualmente resido en Panamá, un país lleno de cultura, naturaleza y oportunidades. Siempre estoy dispuesto a explorar nuevas ideas y aprender de otros profesionales.<br><br>Contacto<br>¡No dudes en conectarte conmigo! Estoy abierto a colaboraciones, oportunidades laborales y proyectos emocionantes. Puedes encontrarme en mi perfil de GitHub o enviarme un correo electrónico.<br><br>Espero que este texto te ayude a destacarte ante los empleadores y contratadores. ¡Buena suerte en tu búsqueda de oportunidades! 🚀
+Sobre Mí<br>¡Hola! 
 
 
 ## 🌐 Socials:
